@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\obj\Debug\net8.0\003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\obj\Debug\net8.0\003.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\obj\Debug\net8.0\003.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\obj\Debug\net8.0\003.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\obj\Debug\net8.0\003.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\bin\Debug\net8.0\003.exe
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\bin\Debug\net8.0\003.deps.json
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\bin\Debug\net8.0\003.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\bin\Debug\net8.0\003.dll
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\bin\Debug\net8.0\003.pdb
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\obj\Debug\net8.0\003.dll
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\obj\Debug\net8.0\refint\003.dll
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\obj\Debug\net8.0\003.pdb
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\obj\Debug\net8.0\003.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Prática\C#\003\obj\Debug\net8.0\ref\003.dll
